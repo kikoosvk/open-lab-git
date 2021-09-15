@@ -44,11 +44,10 @@ Tu je mozne sa prepinat medzi jednotlivými cviceniami, nizsie je zoznam najzauj
 - pick-your-features
 - rebase-complex
 
-Ak budede hotovy, tak mozete skusit aj tieto:
+Ak tie dokoncite dokoncite, mozete skusit aj nasledujuce
 - remove-ignored
 - commit-lost
 - split-commit
 - commit-parts
 - invalid-order
 - find-swearwords
-
