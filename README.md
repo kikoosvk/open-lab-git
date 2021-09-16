@@ -12,7 +12,7 @@ Dalej je potrebne vytvorit novu branchu, pre ktoru budeme neskor vytvarat pull r
 Prehodime sa na tuto novo vytvorenu branchu a pridame text do druheho riadku v subore file.txt (napr. commit from new branch).
 urobime commit a tuto branchu pushneme do remote repozitara.
 
-Nasledne sa switchneme na master (alebo main) a tu znovu pridame text (napr. commit from master branch) do druheho riadku v subore file.txt, takze mame zmenu v tom istom subore na tom istom riadku v dvoch rozdnych vetvach,
+Nasledne sa switchneme na master (alebo main) a tu znovu pridame text (napr. commit from master branch) do druheho riadku v subore file.txt, takze mame zmenu v tom istom subore na tom istom riadku v dvoch roznych vetvach,
 urobime commit a push a mali by sme mat v remote repozitary na githube dve branche.
 
 
@@ -30,8 +30,9 @@ Po tom ako date prikaz git verify by sa v konzole mal zobrazit.
 Status: PASSED
 ```
 a na stranke v pravom stlpci by malo byt prve cvicenie oznacene ako uspesne zvladnute.
-Tu je mozne sa prepinat medzi jednotlivými cviceniami, nizsie je zoznam najzaujimavejsich cviceni, ktore som nasiel:
+Tu je mozne sa prepinat sa medzi jednotlivými cviceniami, v konzole mozete po uspesnom vyrieseni cvicenia prejst na dalsie pomocou prikazu git start next, alebo na konkretne cvicenie git start nazov-cvicenia.
 
+Nizsie je zoznam najzaujimavejsich cviceni, ktore som nasiel:
 - commit-one-file-staged
 - ignore-them
 - chase-branch
@@ -44,7 +45,7 @@ Tu je mozne sa prepinat medzi jednotlivými cviceniami, nizsie je zoznam najzauj
 - pick-your-features
 - rebase-complex
 
-Ak tie dokoncite dokoncite, mozete skusit aj nasledujuce
+Ak tie dokoncite, mozete skusit aj nasledujuce cvicenia
 - remove-ignored
 - commit-lost
 - split-commit
